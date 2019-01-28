@@ -1,0 +1,7 @@
+C:\Users\megicelik\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\CheckPalindrome.csprojResolveAssemblyReference.cache
+C:\Users\megicelik\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\CheckPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\megicelik\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\CheckPalindrome.exe.config
+C:\Users\megicelik\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\CheckPalindrome.exe
+C:\Users\megicelik\source\repos\CheckPalindrome\CheckPalindrome\bin\Debug\CheckPalindrome.pdb
+C:\Users\megicelik\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\CheckPalindrome.exe
+C:\Users\megicelik\source\repos\CheckPalindrome\CheckPalindrome\obj\Debug\CheckPalindrome.pdb
